@@ -31,3 +31,5 @@
 При этом нужно помнить, что в шаблоне Page Object's принято для описания каждой страницы сайта реализовывать отдельный класс.
 
 Вы можете познакомиться с некоторыми подсказками по реализации [этой задачи](https://github.com/netology-code/aqa-homeworks/blob/master/bdd/balance.md).
+
+[![Java CI with Gradle](https://github.com/SergeyAbrosimov-87/Page-object/actions/workflows/gradle.yml/badge.svg)](https://github.com/SergeyAbrosimov-87/Page-object/actions/workflows/gradle.yml)
